@@ -40,7 +40,7 @@ Next, we will install PHP Manager for IIS and the Rewrite Modele for OsTicekt, c
 <br />
 </p>
 <p>
-Finally, we are gonna install VC_redist.x86.exe. along with MySQL. OPneing IIs as an admin and registering PHP within IIS installing osTicket. We will then reload IIS enable some extensions, assign some permissions and continue setting up osTicekting in the browser. Lastly, we install HeidiSQL and set up osticket in the browser assigning a username and password then install. Congrats you have Osticket installed. 
+Finally, we are gonna install VC_redist.x86.exe. along with MySQL. Opening IIs as an admin and registering PHP within IIS installing osTicket. We will then reload IIS enable some extensions, assign some permissions and continue setting up osTicekting in the browser. Lastly, we install HeidiSQL and set up osticket in the browser assigning a username and password then install. Congrats you have Osticket installed. 
 </p>
 <p align="center">
 
